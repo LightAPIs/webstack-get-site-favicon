@@ -1,0 +1,10 @@
+.site-favicon-btn {
+  margin-left: 10px;
+}
+.hide-image {
+  display: none;
+}
+.site-favicon-image {
+  max-width: 128px;
+  max-height: 128px;
+}
